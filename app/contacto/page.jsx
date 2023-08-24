@@ -1,3 +1,7 @@
+export const metadata = {
+    title: "Yeseria Gauna-Contacto",
+}
+
 export default function Contacto(){
     return(
         <div className="contact-container">
